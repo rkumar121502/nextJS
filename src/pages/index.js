@@ -20,6 +20,9 @@ const Home = () => {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <h2 className={styles.title}>
+          This is the 2nd component of the application
+        </h2>
         <Image
           src="/nextjs-logo.svg"
           alt="Next.js logo"
